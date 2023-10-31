@@ -33,7 +33,7 @@
 
 ### Now we check the Public Network Firewall, so let's go there
 
-![[Pasted image 20231031112741.png]]
+![image7](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112741.png?raw=true)
 
 ## Step 2: Allow an Application through the firewall
 
@@ -41,17 +41,17 @@
 
 ### First, we need to click "Allow an app through firewall"
 
-![[Pasted image 20231031113016.png]]
+![image8](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113016.png?raw=true)
 
 ### This will bring up the allowed apps page in Defender's Firewall Section
 
-![[Pasted image 20231031113059.png]]
+![image9](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113059.png?raw=true)
 
 ### We are going to enable Firefox to communicate on the public network, as it is already enabled on the private network
 
 ### To do that, we want to make sure we click the checkbox that says "Public" and not "Private"
 
-![[Pasted image 20231031113303.png]]
+![image10](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113303.png?raw=true)
 
 ## Step 3: Firewall Advanced Security
 
@@ -63,7 +63,7 @@
 
 ### First, we need to click on "Advanced Settings"
 
-![[Pasted image 20231031113629.png]]
+![image11](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113629.png?raw=true)
 
 ### This displays the Advanced Security Window
 
