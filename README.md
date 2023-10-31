@@ -67,15 +67,15 @@
 
 ### This displays the Advanced Security Window
 
-![[Pasted image 20231031113749.png]]
+![image12](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113749.png?raw=true)
 
 ### There's quite a lot of content on this page, but for the sake of this example, we are going to click on "inbound rules"
 
-![[Pasted image 20231031114514.png]]
+![image13](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031114514.png?raw=true)
 
 ### This displays a page with a list of the inbound rules for the firewall
 
-![[Pasted image 20231031114902.png]]
+![image14](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031114902.png?raw=true)
 
 ### Note the current status of the Key Management Service
 
