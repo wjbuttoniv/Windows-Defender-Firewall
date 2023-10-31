@@ -105,9 +105,7 @@ In the General Tab, we will modify "allow the connection" to "block the connecti
 
 In the Advanced tab, we will adjust the profiles to include only "Public."
 
-![u](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows-Defender-Firewall/Pasted%20image%202023103
-
-1120450.png?raw=true)
+![u](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows-Defender-Firewall/Pasted%20image%2020231031120450.png?raw=true)
 
 The overview panel will now display the appropriate rules.
 
