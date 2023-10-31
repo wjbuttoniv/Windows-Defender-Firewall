@@ -79,33 +79,33 @@
 
 ### Note the current status of the Key Management Service
 
-![[Pasted image 20231031115035.png]]
+![image15](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115035.png?raw=true)
 
 ### By right-clicking and selecting properties, the general rule for the service is shown
 
-![[Pasted image 20231031115311.png]]
+![image16](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115311.png?raw=true)
 
 ### In the Advanced Section, the profiles that rules apply to are shown
 
-![[Pasted image 20231031115547.png]]
+![image17](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115547.png?raw=true)
 
 ### Public should not be enabled, so we will disable it
 
-![[Pasted image 20231031115648.png]]
+![image18](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115648.png?raw=true)
 
 ### As the objective is to block traffic on the public network, there needs to be an inbound rule created that is consistent with that objective. For that purpose, we need to copy the rule
 
-![[Pasted image 20231031120308.png]]
+![image19](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120308.png?raw=true)
 
 ### In the General Tab, we change "allow the connection" to "block the connection"
 
-![[Pasted image 20231031120354.png]]
+![image20](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120354.png?raw=true)
 
 ### In the Advanced tab, we change the profiles to just "Public"
 
-![[Pasted image 20231031120450.png]]
+![image21](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120450.png?raw=true)
 
 ### The overview panel now shows the correct rules
 
-![[Pasted image 20231031120734.png]]
+![image21](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120734.png?raw=true)
 
