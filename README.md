@@ -4,30 +4,30 @@
 
 ## Step 1: To Start, we need to open Windows Security
 
-![image1](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031111813.png?raw=true)
-![image2](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031111835.png?raw=true)
+![image1](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031111813.png?raw=true)
+![image2](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031111835.png?raw=true)
 
 ### Next, we need to click on "Firewall and Network Protection"
 
-![image3](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031111924.png?raw=true)
+![image3](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031111924.png?raw=true)
 
 ### This page shows us the status of the firewall for each of the Following
 - Domain Network
 - Private Network
 - Public Network
-![image4](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031112122.png?raw=true)
+![image4](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031112122.png?raw=true)
 
 ### For this example, we are going to start with the domain network
 
 ### Here, we can verify that the Defender firewall is set to "On"
 
-![image5](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031112349.png?raw=true)
+![image5](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031112349.png?raw=true)
 
 ### Note the above in blue, we won't be using this here but clicking this checkbox would block all incoming connections on this network, even ones that are normally allowed
 
 ### Now, we can check out the Private Network
 
-![image6](https://github.com/wjbuttoniv/Windows-Defender-Scans/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031112547.png?raw=true)
+![image6](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%20231031112547.png?raw=true)
 
 ### Note that we have the same option here to verify that the network firewall is enabled, as well as the option to block all incoming connections
 
