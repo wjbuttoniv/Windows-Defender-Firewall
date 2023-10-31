@@ -4,36 +4,36 @@
 
 ## Step 1: To Start, we need to open Windows Security
 
-![image1](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031111813.png?raw=true)
-![image2](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031111835.png?raw=true)
+![a](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031111813.png?raw=true)
+![b](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031111835.png?raw=true)
 
 ### Next, we need to click on "Firewall and Network Protection"
 
-![image3](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031111924.png?raw=true)
+![c](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031111924.png?raw=true)
 
 ### This page shows us the status of the firewall for each of the Following
 - Domain Network
 - Private Network
 - Public Network
-![image4](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112122.png?raw=true)
+![d](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112122.png?raw=true)
 
 ### For this example, we are going to start with the domain network
 
 ### Here, we can verify that the Defender firewall is set to "On"
 
-![image5](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112349.png?raw=true)
+![e](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112349.png?raw=true)
 
 ### Note the above in blue, we won't be using this here but clicking this checkbox would block all incoming connections on this network, even ones that are normally allowed
 
 ### Now, we can check out the Private Network
 
-![image6](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112547.png?raw=true)
+![f](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112547.png?raw=true)
 
 ### Note that we have the same option here to verify that the network firewall is enabled, as well as the option to block all incoming connections
 
 ### Now we check the Public Network Firewall, so let's go there
 
-![image7](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112741.png?raw=true)
+![g](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031112741.png?raw=true)
 
 ## Step 2: Allow an Application through the firewall
 
@@ -41,17 +41,17 @@
 
 ### First, we need to click "Allow an app through firewall"
 
-![image8](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113016.png?raw=true)
+![h](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113016.png?raw=true)
 
 ### This will bring up the allowed apps page in Defender's Firewall Section
 
-![image9](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113059.png?raw=true)
+![i](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113059.png?raw=true)
 
 ### We are going to enable Firefox to communicate on the public network, as it is already enabled on the private network
 
 ### To do that, we want to make sure we click the checkbox that says "Public" and not "Private"
 
-![image10](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113303.png?raw=true)
+![j](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113303.png?raw=true)
 
 ## Step 3: Firewall Advanced Security
 
@@ -63,49 +63,48 @@
 
 ### First, we need to click on "Advanced Settings"
 
-![image11](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113629.png?raw=true)
+![k](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113629.png?raw=true)
 
 ### This displays the Advanced Security Window
 
-![image12](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113749.png?raw=true)
+![l](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031113749.png?raw=true)
 
 ### There's quite a lot of content on this page, but for the sake of this example, we are going to click on "inbound rules"
 
-![image13](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031114514.png?raw=true)
+![m](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031114514.png?raw=true)
 
 ### This displays a page with a list of the inbound rules for the firewall
 
-![image14](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031114902.png?raw=true)
+![n](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031114902.png?raw=true)
 
 ### Note the current status of the Key Management Service
 
-![image15](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115035.png?raw=true)
+![o](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115035.png?raw=true)
 
 ### By right-clicking and selecting properties, the general rule for the service is shown
 
-![image16](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115311.png?raw=true)
+![p](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115311.png?raw=true)
 
 ### In the Advanced Section, the profiles that rules apply to are shown
 
-![image17](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115547.png?raw=true)
+![q](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115547.png?raw=true)
 
 ### Public should not be enabled, so we will disable it
 
-![image18](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115648.png?raw=true)
+![r](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031115648.png?raw=true)
 
 ### As the objective is to block traffic on the public network, there needs to be an inbound rule created that is consistent with that objective. For that purpose, we need to copy the rule
 
-![image19](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120308.png?raw=true)
+![s](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120308.png?raw=true)
 
 ### In the General Tab, we change "allow the connection" to "block the connection"
 
-![image20](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120354.png?raw=true)
+![t](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120354.png?raw=true)
 
 ### In the Advanced tab, we change the profiles to just "Public"
 
-![image21](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120450.png?raw=true)
+![u](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120450.png?raw=true)
 
 ### The overview panel now shows the correct rules
 
-![image21](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120734.png?raw=true)
-
+![v](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows%20Defender%20Firewall/Pasted%20image%2020231031120734.png?raw=true)
