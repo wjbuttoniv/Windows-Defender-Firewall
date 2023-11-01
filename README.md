@@ -50,7 +50,7 @@ This action will bring up the allowed apps page within Windows Defender Firewall
 
 ![i](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows-Defender-Firewall/Pasted%20image%2020231031113059.png?raw=true)
 
-We intend to enable Firefox for communication on the public network, provided it is already enabled on the private network.
+We intend to enable Firefox for communication on the public network, as it is already enabled on the private network.
 
 To achieve this, ensure that you select the checkbox marked "Public" rather than "Private."
 
