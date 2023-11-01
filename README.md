@@ -63,7 +63,7 @@ Now, let's delve into some of the advanced security features offered by Windows 
 - Allow the connection for Key Management Service on the Domain and Private Network.
 - Deny the connection for Key Management Service on the Public Network.
 
-Commence by clicking on "Advanced Settings."
+Let's start by clicking on "Advanced Settings."
 
 ![k](https://github.com/wjbuttoniv/Windows-Defender-Firewall/blob/main/Windows-Defender-Firewall/Pasted%20image%2020231031113629.png?raw=true)
 
